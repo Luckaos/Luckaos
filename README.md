@@ -21,6 +21,8 @@
           
 </div>
 
+![Snake animation](https://github.com/luckaos/luckaos/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 ### Não se esqueça! Já me segue lá no Instagram e no Linked In. 😊
@@ -30,11 +32,7 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/luckaos/luckaos/blob/output/github-contribution-grid-snake.svg)
-
-##
-### Chega de enrolação e vamos para o que enteressa! <strong>OS PROJETOS!</strong>
+### Chega de enrolação e vamos para o que interessa! <strong>OS PROJETOS!</strong>
 
 
 <!-- -->
