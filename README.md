@@ -37,7 +37,7 @@
 #### HTML5 e CSS3
 
 <div>
-  <a href="https://luckaos.github.io/html-css/projeto-android/">
+  <a href="https://luckaos.github.io/html-css/projeto-android/" target="_blank">
   <img src="https://luckaos.github.io/html-css/projeto-android/imagens/Thumb-Proj-Android.PNG" alt="Miniatura Pojeto Android" width="240em">
   </a>
 </div>
