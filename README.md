@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/Luckaos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luckaos&show_icons=true&theme=cobalt&title_color=da1fda&icon_color=da1fda&border_radius=20px&locale=pt-br&border_color=75DC87">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckaos&layout=compact&langs_count=6&theme=cobalt&border_color=75DC87&border_radius=15px&title_color=da1fda&icon_color=da1fda">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luckaos&show_icons=true&theme=cobalt&title_color=da1fda&icon_color=da1fda&border_radius=20px&locale=pt-br&border_color=75DC87">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckaos&layout=compact&langs_count=6&theme=cobalt&border_color=75DC87&border_radius=15px&title_color=da1fda&icon_color=da1fda">
   </a>
 </div>
 
@@ -31,6 +31,9 @@
 
 ##
 
+![Snake animation](https://github.com/luckaos/luckaos/blob/output/github-contribution-grid-snake.svg)
+
+##
 ### Chega de enrolação e vamos para o que enteressa! <strong>OS PROJETOS!</strong>
 
 
