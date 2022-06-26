@@ -42,4 +42,12 @@
   </a>
 </div>
 
+#### Java + TypeScript
+
+<div>
+  <a href="https://dsvendas-lucasrodolfo.netlify.app/dashboard" target="_blank">
+  <img src="https://raw.githubusercontent.com/Luckaos/projeto-sds5/main/Thumb-DSVendas.png" alt="Miniatura Pojeto DSVendas" width="240em">
+  </a>
+</div>
+
 <!-- -->
