@@ -33,24 +33,3 @@
 
 ##
 ### Chega de enrolação e vamos para o que interessa! <strong>OS PROJETOS!</strong>
-
-#### HTML5 e CSS3
-
-<div>
-  <a href="https://luckaos.github.io/formulario/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Luckaos/formulario/main/form-page.PNG" alt="Miniatura Form-page" width="240em">
-  </a>
-  <a href="https://luckaos.github.io/html-css/projeto-android/" target="_blank">
-  <img src="https://luckaos.github.io/html-css/projeto-android/imagens/Thumb-Proj-Android.PNG" alt="Miniatura Pojeto Android" width="240em">
-  </a>
-</div>
-
-#### Java + TypeScript
-
-<div>
-  <a href="https://dsvendas-lucasrodolfo.netlify.app/dashboard" target="_blank">
-  <img src="https://raw.githubusercontent.com/Luckaos/projeto-sds5/main/Thumb-DSVendas.png" alt="Miniatura Pojeto DSVendas" width="240em">
-  </a>
-</div>
-
-<!-- -->
