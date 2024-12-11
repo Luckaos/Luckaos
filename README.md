@@ -1,8 +1,8 @@
 ### Oi, meu nome é Lucas Rodolfo 👋
 
 
-- 🔭 Atualmente eu trabalho como Suporte ao Usuário, mas quero muito me tornar um desenvolvedor.
-- 🌱 Estou aprendendo sobre HTML5, CSS3, JavaScript, Bootstrap, etc.
+- 🔭 Atualmente eu trabalho como Desenvolvedor ABAP, e quero cada vez mais crescer como Desenvolvedor.
+- 🌱 Estou aprendendo sobre ABAP, Fiori, SAPUI5, HTML5, CSS3, JavaScript, React, etc.
 - 😄 Pronouns: ele/dele
 
 <div style="text-align: center">
